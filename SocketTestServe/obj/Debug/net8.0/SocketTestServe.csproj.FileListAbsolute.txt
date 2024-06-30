@@ -1,0 +1,14 @@
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/bin/Debug/net8.0/SocketTestServe
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/bin/Debug/net8.0/SocketTestServe.deps.json
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/bin/Debug/net8.0/SocketTestServe.runtimeconfig.json
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/bin/Debug/net8.0/SocketTestServe.dll
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/bin/Debug/net8.0/SocketTestServe.pdb
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/obj/Debug/net8.0/SocketTestServe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/obj/Debug/net8.0/SocketTestServe.AssemblyInfoInputs.cache
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/obj/Debug/net8.0/SocketTestServe.AssemblyInfo.cs
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/obj/Debug/net8.0/SocketTestServe.csproj.CoreCompileInputs.cache
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/obj/Debug/net8.0/SocketTestServe.dll
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/obj/Debug/net8.0/refint/SocketTestServe.dll
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/obj/Debug/net8.0/SocketTestServe.pdb
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/obj/Debug/net8.0/SocketTestServe.genruntimeconfig.cache
+/Users/moxixuan/Code/SocketTestServe/SocketTestServe/obj/Debug/net8.0/ref/SocketTestServe.dll
